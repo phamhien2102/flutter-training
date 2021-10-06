@@ -4,7 +4,7 @@
 
 final TAG = "Cheatsheet";
 
-void cheatsheet() {
+void learnCheatsheet() {
   stringify(5, 10);
 
   nullVariable();

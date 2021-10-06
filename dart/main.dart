@@ -7,8 +7,8 @@
  * 
  **/
 
-import 'basic/cheatsheet.dart';
+import 'basic/index.dart';
 
 void main() {
-  cheatsheet();
+  learnBasic();
 }
